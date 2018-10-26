@@ -1,7 +1,7 @@
 # rtt-18-fpga
 Project of the Networks and Technologies for Telecommunications course of the Computer Science and Networking Master's Degree @ University of Pisa. The aim of the project is to deal with the implementation of Adders, Subtractors and Multipliers in Verilog HDL. The tests have been conducted on both the Quartus University Program Waveform Simulator and on the DE2-115 series FPGA board.
 
-<b>Note:</b> Every solution contains an “interface” to the FPGA board to ease pin assignments. Moreover, every solution also contains a module that given a 4 bits input (interpreted as an unsigned integer) it outputs the value on a 7-segment screen like the ones on the board.
+<b>Note: </b>Every solution contains an “interface” to the FPGA board to ease pin assignments. Moreover, every solution also contains a module that given a 4 bits input (interpreted as an unsigned integer) it outputs the value on a 7-segment screen like the ones on the board.
 
 | <b>Part number</b> | <b>Description</b> |
 | ---------- | ----------- |
